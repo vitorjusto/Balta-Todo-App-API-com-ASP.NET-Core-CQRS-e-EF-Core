@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.Infra.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.Infra.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.Infra.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\refint\Todo.Domain.Infra.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\ref\Todo.Domain.Infra.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.csproj.CopyComplete
