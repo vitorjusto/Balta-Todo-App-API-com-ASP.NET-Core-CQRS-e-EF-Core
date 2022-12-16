@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ocClWSbToKpgWHugL+fPtiUodKnKTaPsqCU9zPCttgO0ecLuMm27c3oh27EFH78StX9tuR3plO24v6t8lfe9Mw==",
+  "dgSpecHash": "Iy920U6ceg02R7n/T4WNSv4y0FYDa8sixSc/0JGnIphh4Je8L2Ff3yJykYr6B78fcdopHTPvkU1PbaGVpz/PbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain\\Todo.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain\\Todo.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,3 +13,18 @@ C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\ne
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.dll
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.pdb
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.csproj.CopyComplete
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.Infra.deps.json
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.Infra.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.Infra.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\bin\Debug\net6.0\Todo.Domain.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.csproj.AssemblyReference.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.csproj.CopyComplete
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\refint\Todo.Domain.Infra.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\Todo.Domain.Infra.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Infra\obj\Debug\net6.0\ref\Todo.Domain.Infra.dll
