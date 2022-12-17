@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F5m8875POkAxD4rSgZuW4RYOqKHjjmLEJmi2NO4DYZcuuURNaTCUfxVVsvPYYRni7K3u8epPvMV/MXE4hwAFwg==",
+  "dgSpecHash": "6wIKJo9HD0fOkki7OgNJyHonPZ67Wu46413F1u9KXbWHQV/qZUsqrB/5ByOC5Icf3Uh/fqX7l0Bf4InqZVqZyw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj",
+  "projectFilePath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain\\Todo.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
   ],

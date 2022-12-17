@@ -251,13 +251,13 @@
     },
     "Todo.Domain/1.0.0": {
       "type": "project",
-      "path": "../Todo.Domain/Todo.Domain.csproj",
-      "msbuildProject": "../Todo.Domain/Todo.Domain.csproj"
+      "path": "../Todo.domain/Todo.Domain.csproj",
+      "msbuildProject": "../Todo.domain/Todo.Domain.csproj"
     },
     "Todo.Domain.Infra/1.0.0": {
       "type": "project",
-      "path": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj",
-      "msbuildProject": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj"
+      "path": "../Todo.domain.Infra/Todo.Domain.Infra.csproj",
+      "msbuildProject": "../Todo.domain.Infra/Todo.Domain.Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -274,11 +274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain.Api\\Todo.Domain.Api.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain.Api\\Todo.Domain.Api.csproj",
       "projectName": "Todo.Domain.Api",
-      "projectPath": "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain.Api\\Todo.Domain.Api.csproj",
+      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain.Api\\Todo.Domain.Api.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain.Api\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -300,11 +300,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
-              "projectPath": "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
+            "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain.Infra\\Todo.Domain.Infra.csproj": {
+              "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain.Infra\\Todo.Domain.Infra.csproj"
             },
-            "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj": {
-              "projectPath": "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj"
+            "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain\\Todo.Domain.csproj": {
+              "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.domain\\Todo.Domain.csproj"
             }
           }
         }

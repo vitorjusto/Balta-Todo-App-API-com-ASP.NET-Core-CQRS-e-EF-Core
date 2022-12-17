@@ -1,8 +1,8 @@
-using Flunt.Validation;
+using Flunt.Validations;
 
 namespace Todo.Domain.Commands.Contracts
 {
-    public interface ICommand : IValidatible
+    public interface ICommand 
     {
 
     }

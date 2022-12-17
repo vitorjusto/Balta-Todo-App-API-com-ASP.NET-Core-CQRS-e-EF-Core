@@ -60,3 +60,4 @@ C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.pdb
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.genruntimeconfig.cache
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\ref\Todo.Domain.Api.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Api\bin\Debug\net6.0\Flunt.dll
