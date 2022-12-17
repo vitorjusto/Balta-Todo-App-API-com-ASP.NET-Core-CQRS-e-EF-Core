@@ -29,3 +29,34 @@ C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Api\bin\Debug\net6
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.Infra.dll
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.pdb
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.Infra.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.Api.exe
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.Api.deps.json
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.Api.runtimeconfig.json
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.Api.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.Api.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.Infra.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Todo.Domain.Infra.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.csproj.AssemblyReference.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.AssemblyInfoInputs.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.AssemblyInfo.cs
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.csproj.CoreCompileInputs.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\scopedcss\bundle\Todo.Domain.Api.styles.css
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.csproj.CopyComplete
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\refint\Todo.Domain.Api.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\Todo.Domain.Api.genruntimeconfig.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\obj\Debug\net6.0\ref\Todo.Domain.Api.dll

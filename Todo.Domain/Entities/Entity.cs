@@ -10,5 +10,6 @@ namespace Todo.Domain.Entities
 
         public bool Equals(Entity? other)
             => Id == other?.Id;
+
     }
 }
