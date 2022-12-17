@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj": {}
+    "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj": {
+    "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj",
         "projectName": "Todo.Domain",
-        "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj",
+        "projectPath": "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\Todo.Domain.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\obj\\",
+        "outputPath": "c:\\Users\\vitor\\OneDrive\\Área de Trabalho\\C#\\todo\\Todo.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ESTÁGIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,12 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/precisaosistemas/_packaging/InovaPay/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/precisaosistemas/_packaging/RecargaPS/nuget/v3/index.json": {},
-          "https://precisaosistemas.pkgs.visualstudio.com/_packaging/Bluedesk/nuget/v3/index.json": {},
-          "https://precisaosistemas.pkgs.visualstudio.com/_packaging/Inovafarma/nuget/v3/index.json": {},
-          "https://precisaosistemas.pkgs.visualstudio.com/_packaging/Precisao/nuget/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     }
