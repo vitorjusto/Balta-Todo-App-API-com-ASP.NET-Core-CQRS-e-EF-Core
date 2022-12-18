@@ -1,11 +1,12 @@
 
 using System;
 using Flunt.Notifications;
+using Flunt.Validations;
 using Todo.Domain.Commands.Contracts;
 
 namespace Todo.Domain.Commands
 {
-    public class CreateTodoCommand : ICommand
+    public class CreateTodoCommand : Notifiable<Notification>, ICommand
     {
         public CreateTodoCommand(string title, string user, DateTime date)
         {
@@ -25,13 +26,12 @@ namespace Todo.Domain.Commands
 
         public void Validate()
         {
-            if(Title.Length < 4)
-                throw new Exception("Invalid title");
-            
-            if(User.Length < 4)
-                throw new Exception("Invalid User");
-            
-
+           AddNotifications(
+                new Contract<Co>()
+                    .Requires()
+                    .IsGreaterThan(Title, 3, "Title", "Please, write a bigger task")
+                    .IsGreaterThan(User, 6, "User", "Invalid User")
+           );
         }
     }
 }
