@@ -5,13 +5,13 @@ using Flunt.Validations;
 
 namespace Todo.Domain.Commands
 {
-    public class MarkTodoAsDoneCommand : Notifiable<Notification>, ICommand
+    public class MarkTodoAsUndoneCommand : Notifiable<Notification>, ICommand
     {
-        public MarkTodoAsDoneCommand()
+        public MarkTodoAsUndoneCommand()
         {
         }
 
-        public MarkTodoAsDoneCommand(Guid id, string user)
+        public MarkTodoAsUndoneCommand(Guid id, string user)
         {
             User = user;
             Id = id;
