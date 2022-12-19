@@ -1,4 +1,3 @@
-
 using Todo.Domain.Commands.Contracts;
 
 namespace Todo.Domain.Commands

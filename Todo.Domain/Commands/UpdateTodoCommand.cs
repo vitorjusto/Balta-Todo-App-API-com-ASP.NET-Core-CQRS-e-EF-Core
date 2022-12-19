@@ -1,27 +1,25 @@
-
 using Flunt.Notifications;
-using Flunt.Validations;
 using Todo.Domain.Commands.Contracts;
+using Flunt.Validations;
 
 namespace Todo.Domain.Commands
 {
-    public class CreateTodoCommand : Notifiable<Notification>, ICommand
+    public class UpdateTodoCommand : Notifiable<Notification>, ICommand
     {
-        public CreateTodoCommand(string title, string user, DateTime date)
+        public UpdateTodoCommand()
         {
-            Title = title;
+        }
+
+        public UpdateTodoCommand(Guid id, string? user, string? title)
+        {
+            Id = id;
             User = user;
-            Date = date;
+            Title = title;
         }
 
-        public CreateTodoCommand()
-        {
-
-        }
-
-        public string Title {get; set;}
-        public string User {get; set;}
-        public DateTime Date {get; set;}
+        public Guid Id {get; set;}
+        public string? User {get; set;}
+        public string? Title {get; set;}
 
         public void Validate()
         {

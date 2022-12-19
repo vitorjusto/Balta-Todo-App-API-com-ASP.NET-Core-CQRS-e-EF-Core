@@ -1,6 +1,5 @@
 using Flunt.Notifications;
 using Todo.Domain.Commands.Contracts;
-using System;
 using Flunt.Validations;
 
 namespace Todo.Domain.Commands
