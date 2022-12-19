@@ -27,7 +27,7 @@ namespace Todo.Domain.Commands
         public void Validate()
         {
            AddNotifications(
-                new Contract<Co>()
+                new Contract<Notification>()
                     .Requires()
                     .IsGreaterThan(Title, 3, "Title", "Please, write a bigger task")
                     .IsGreaterThan(User, 6, "User", "Invalid User")
