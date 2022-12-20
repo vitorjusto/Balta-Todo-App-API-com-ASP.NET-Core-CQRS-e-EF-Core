@@ -201,3 +201,4 @@ C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Test\obj\Debug\net6.0\Todo.Domain.Test.genruntimeconfig.cache
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Test\obj\Debug\net6.0\ref\Todo.Domain.Test.dll
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain.Test\bin\Debug\net6.0\Flunt.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Test\bin\Debug\net6.0\Flunt.dll

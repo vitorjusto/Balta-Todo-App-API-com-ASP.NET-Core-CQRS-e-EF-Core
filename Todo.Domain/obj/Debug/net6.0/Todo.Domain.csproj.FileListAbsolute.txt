@@ -10,3 +10,15 @@ C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain\obj\Debug\net6.0\T
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain\obj\Debug\net6.0\refint\Todo.Domain.dll
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain\obj\Debug\net6.0\Todo.Domain.pdb
 C:\Users\vitor\OneDrive\Área de Trabalho\C#\todo\Todo.domain\obj\Debug\net6.0\ref\Todo.Domain.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\bin\Debug\net6.0\Todo.Domain.deps.json
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\bin\Debug\net6.0\Todo.Domain.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\bin\Debug\net6.0\Todo.Domain.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\obj\Debug\net6.0\Todo.Domain.csproj.AssemblyReference.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\obj\Debug\net6.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfo.cs
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\obj\Debug\net6.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\obj\Debug\net6.0\Todo.Domain.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\obj\Debug\net6.0\refint\Todo.Domain.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\obj\Debug\net6.0\Todo.Domain.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain\obj\Debug\net6.0\ref\Todo.Domain.dll
