@@ -2,9 +2,9 @@ using System;
 
 namespace Todo.Domain.Entities
 {
-    public abstract class TodoItem : Entity
+    public class TodoItem : Entity
     {
-        protected TodoItem(string title, DateTime date, string user)
+        public TodoItem(string title, DateTime date, string user)
         {
             Title = title;
             Done = false;
