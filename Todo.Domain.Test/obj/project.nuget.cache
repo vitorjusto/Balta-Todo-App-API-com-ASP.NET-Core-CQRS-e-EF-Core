@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uwgjW1jGR5D3AH1DyTmAS3qIQHIpJ2L4g180zPqKZDhjfHgkwanVVEYXgq9T8zbvPXjFM+5kl/PtlwHRUQndXQ==",
+  "dgSpecHash": "WhQw/Icfo/22F8taXtwi2QmJfuwZavFgPzyRa7wtfbEaEnJXku477RbAhdThblpr+dIh35P5m5XwSEMdkQayhQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Test\\Todo.Domain.Test.csproj",
+  "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Test\\Todo.Domain.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
