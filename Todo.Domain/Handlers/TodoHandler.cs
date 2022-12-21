@@ -28,7 +28,7 @@ namespace Todo.Domain.Handlers
 
             _repository.Create(item);
 
-            return new GenericCommandResult(success: false, message: "Task saved!",data: item);
+            return new GenericCommandResult(success: true, message: "Task saved!",data: item);
         }
     }
 }

@@ -9,18 +9,25 @@ namespace Todo.Domain.Test.HandlerTests
     [TestClass]
     public class CreateTodoHandlerTest
     {
+        private readonly CreateTodoCommand _validCommand = new CreateTodoCommand("Titlesjdoasdsda", "User123", DateTime.Now);
+        private readonly CreateTodoCommand _invalidCommand = new CreateTodoCommand("", "", DateTime.Now);
+
+        private readonly TodoHandler _handler = new TodoHandler(new FakeTodoRepository());
+        private GenericCommandResult _result {get; set;}
+
         [TestMethod]
         public void Dado_um_comando_invalido_deve_Interromper_a_execucao()
         {
-            var command = new CreateTodoCommand("", "", DateTime.Now);
-            var handler = new TodoHandler(new FakeTodoRepository());
 
+            _result = (GenericCommandResult)_handler.Handle(_invalidCommand);
+            Assert.IsFalse(_result.Success);
         }
 
         [TestMethod]
         public void Dado_um_comando_valido_deve_criar_a_tarefa()
         {
-            
+            _result = (GenericCommandResult)_handler.Handle(_validCommand);
+            Assert.IsTrue(_result.Success);
         }
     }
 }
