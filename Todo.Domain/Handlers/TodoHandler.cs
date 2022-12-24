@@ -8,7 +8,7 @@ using Todo.Domain.Repositories;
 
 namespace Todo.Domain.Handlers
 {
-    public class TodoHandler : Notifiable<Notification>, IHandler<CreateTodoCommand>, IHandler<UpdateTodoCommand> 
+    public class TodoHandler : Notifiable<Notification>, IHandler<CreateTodoCommand>, IHandler<UpdateTodoCommand>, IHandler<MarkTodoAsDoneCommand>, IHandler<MarkTodoAsUndoneCommand>
     {
         private readonly ITodoRepository _repository;
 
@@ -30,7 +30,6 @@ namespace Todo.Domain.Handlers
 
             return new GenericCommandResult(success: true, message: "Task saved!",data: item);
         }
-
         public ICommandResult Handle(UpdateTodoCommand command)
         {
             command.Validate();
@@ -41,9 +40,40 @@ namespace Todo.Domain.Handlers
             var todo = _repository.GetById(command.Id, command.User);
 
             todo.UpdateTitle(command.Title);
-            
+
+            _repository.Update(todo);
+
+            return new GenericCommandResult(success: true, message: "Task saved!",data: todo);
+        }
+        public ICommandResult Handle(MarkTodoAsDoneCommand command)
+        {
+            command.Validate();
+
+            if(!command.IsValid)
+                return new GenericCommandResult(success: false, message: "Oops, seems your task is wrong",data: command.Notifications);
+
+            var todo = _repository.GetById(command.Id, command.User);
+
+            todo.MarkAsDone();
+
+            _repository.Update(todo);
+
+            return new GenericCommandResult(success: true, message: "Task saved!",data: todo);
+        }
+        public ICommandResult Handle(MarkTodoAsUndoneCommand command)
+        {
+            command.Validate();
+
+            if(!command.IsValid)
+                return new GenericCommandResult(success: false, message: "Oops, seems your task is wrong",data: command.Notifications);
+
+            var todo = _repository.GetById(command.Id, command.User);
+
+            todo.MarkAsUndone();
+
             _repository.Update(todo);
 
             return new GenericCommandResult(success: true, message: "Task saved!",data: todo);
         }
     }
+}
