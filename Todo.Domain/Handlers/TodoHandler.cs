@@ -8,7 +8,7 @@ using Todo.Domain.Repositories;
 
 namespace Todo.Domain.Handlers
 {
-    public class TodoHandler : Notifiable<Notification>, IHandler<CreateTodoCommand> 
+    public class TodoHandler : Notifiable<Notification>, IHandler<CreateTodoCommand>, IHandler<UpdateTodoCommand> 
     {
         private readonly ITodoRepository _repository;
 
@@ -30,5 +30,20 @@ namespace Todo.Domain.Handlers
 
             return new GenericCommandResult(success: true, message: "Task saved!",data: item);
         }
+
+        public ICommandResult Handle(UpdateTodoCommand command)
+        {
+            command.Validate();
+
+            if(!command.IsValid)
+                return new GenericCommandResult(success: false, message: "Oops, seems your task is wrong",data: command.Notifications);
+
+            var todo = _repository.GetById(command.Id, command.User);
+
+            todo.UpdateTitle(command.Title);
+            
+            _repository.Update(todo);
+
+            return new GenericCommandResult(success: true, message: "Task saved!",data: todo);
+        }
     }
-}
