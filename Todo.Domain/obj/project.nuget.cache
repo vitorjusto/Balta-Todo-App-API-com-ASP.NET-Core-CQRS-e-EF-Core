@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ggl+xbLAM7J9HFCLaaSWEcQcOlHntgqPmAGOZ7ChkCoXaPuEYFhDR4qOqOpebquKoQnbgkDKfSC1mjcvvi+WQQ==",
+  "dgSpecHash": "NPdPR4/vO5TNbR7+EpWK8SqyJtIVp+kEGMqx6eTwwewp3OnBhyWi/iW3Bpyv7H7upKOSuvqEJQDfOS+90mHMLg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain\\Todo.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain\\Todo.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
   ],
