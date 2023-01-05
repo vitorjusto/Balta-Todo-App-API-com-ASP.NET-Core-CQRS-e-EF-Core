@@ -15,6 +15,10 @@ namespace Todo.Domain.Api
             services.AddControllers();
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
+
+            services.AddTransient();
+            services.AddScoped();
+            services.AddSingleton();
         }
 
         public void Configure(WebApplication app, IWebHostEnvironment environment)
