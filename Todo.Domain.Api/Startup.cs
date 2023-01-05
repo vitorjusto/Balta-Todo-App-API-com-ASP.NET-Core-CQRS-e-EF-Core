@@ -1,6 +1,8 @@
 
 using Microsoft.EntityFrameworkCore;
+using Todo.Domain.Handlers;
 using Todo.Domain.Infra.Contexts;
+using Todo.Domain.Repositories;
 
 namespace Todo.Domain.Api
 {
@@ -21,6 +23,9 @@ namespace Todo.Domain.Api
 
             services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("Database"));
             //services.AddDbContext<TodoContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Connection string"));
+
+            services.AddTransient<ITodoRepository, TodoRepository>();
+            services.AddTransient<TodoHandler, TodoHandler>();
         }
 
         public void Configure(WebApplication app, IWebHostEnvironment environment)
