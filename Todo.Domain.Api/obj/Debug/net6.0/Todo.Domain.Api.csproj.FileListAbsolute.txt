@@ -75,3 +75,11 @@ C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

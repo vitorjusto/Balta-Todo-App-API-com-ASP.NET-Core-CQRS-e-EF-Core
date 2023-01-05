@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BUL/iaD0WnlNvEtgVtg+eGiom9o/3iLH5p/a+j7Ay6I+yxIQjvRlWdJFGO5oERraIrdW3Y+3k96DdySI1R4niQ==",
+  "dgSpecHash": "9ZrxqxtJbtJx0k4Fhf183caWEKJaL84n9KvCmg3dpnuhu+LwB5iuG+cVrioojj10G5UQTA/IXXVYv0xUAddZOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Test\\Todo.Domain.Test.csproj",
   "expectedPackageFiles": [

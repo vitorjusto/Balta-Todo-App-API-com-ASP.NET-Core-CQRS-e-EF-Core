@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7s75p4lscv3v/Dh7Y8dn0WwuvebZp4HnDHBIcgmrgXifR9lC4+t/5rDiu/NDs2KalJNt0WE/WRdAI8/8ouyoWQ==",
+  "dgSpecHash": "X+CDh+rr6Q+GJcqMdLSZ6vIPmo94YR+U7nGVrFpDHt91sk6Ax8HXulzojpz/rFv+UEZkawhef7E1i60Fz+wUPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Infra\\Todo.Domain.Infra.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.1\\microsoft.entityframeworkcore.design.7.0.1.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.1\\microsoft.entityframeworkcore.inmemory.7.0.1.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.1\\microsoft.entityframeworkcore.relational.7.0.1.nupkg.sha512",
+    "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.1\\microsoft.entityframeworkcore.tools.7.0.1.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
