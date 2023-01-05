@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using Todo.Domain.Infra.Contexts;
+
 namespace Todo.Domain.Api
 {
     public class Startup
@@ -16,9 +19,8 @@ namespace Todo.Domain.Api
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
 
-            services.AddTransient();
-            services.AddScoped();
-            services.AddSingleton();
+            services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("Database"));
+            //services.AddDbContext<TodoContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Connection string"));
         }
 
         public void Configure(WebApplication app, IWebHostEnvironment environment)
