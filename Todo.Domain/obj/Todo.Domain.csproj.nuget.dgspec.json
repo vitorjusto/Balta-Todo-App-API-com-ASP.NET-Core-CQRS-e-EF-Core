@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain\\Todo.Domain.csproj": {}
+    "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain\\Todo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain\\Todo.Domain.csproj": {
+    "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain\\Todo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain\\Todo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain\\Todo.Domain.csproj",
         "projectName": "Todo.Domain",
-        "projectPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain\\Todo.Domain.csproj",
+        "projectPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain\\Todo.Domain.csproj",
         "packagesPath": "C:\\Users\\ESTÁGIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain\\obj\\",
+        "outputPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ESTÁGIO\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X+CDh+rr6Q+GJcqMdLSZ6vIPmo94YR+U7nGVrFpDHt91sk6Ax8HXulzojpz/rFv+UEZkawhef7E1i60Fz+wUPQ==",
+  "dgSpecHash": "dehN2ErTLa9fnFzkP0eHYRzWGVh2sx2pm/sPVcVzJSVwas4MEKLly9qqYzKekndW+sAk3LSCowLyY+l4qxtMvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Infra\\Todo.Domain.Infra.csproj",
+  "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
