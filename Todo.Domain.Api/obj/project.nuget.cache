@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YZW0P+LZcSEQZGjRqI5nOzjPLMsj9Y9an4G2p7qO/Ljru21gyqgC18sXWG+40CkVJbWqIzmf2WmTbVvqieZ8QQ==",
+  "dgSpecHash": "dvuUIoUXLl7UMaPhXpH3r909zRfUa16ox4si6zwWUIC9gv6PBdv7Lwb8oBC1L0YhAuSgiQuDQYF+SX1RGmFklQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+  "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -25,6 +25,7 @@
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\ESTÁGIO\\.nuget\\packages\\pgsqldatatypes\\1.0.0\\pgsqldatatypes.1.0.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

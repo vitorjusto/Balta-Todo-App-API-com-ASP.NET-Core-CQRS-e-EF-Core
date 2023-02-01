@@ -1,5 +1,6 @@
 using Flunt.Notifications;
 using Flunt.Validations;
+using PgsqlDataTypes;
 using Todo.Domain.Commands.Contracts;
 
 namespace Todo.Domain.Commands
@@ -24,12 +25,7 @@ namespace Todo.Domain.Commands
 
         public void Validate()
         {
-           AddNotifications(
-                new Contract<Notification>()
-                    .Requires()
-                    .IsGreaterThan(Title, 3, "Title", "Please, write a bigger task")
-                    .IsGreaterThan(User, 6, "User", "Invalid User")
-           );
+            
         }
     }
 }

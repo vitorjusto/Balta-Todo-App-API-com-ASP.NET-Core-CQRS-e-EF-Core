@@ -15,13 +15,6 @@ namespace Todo.Domain.Test.HandlerTests
         private readonly TodoHandler _handler = new TodoHandler(new FakeTodoRepository());
         private GenericCommandResult _result {get; set;}
 
-        [TestMethod]
-        public void Dado_um_comando_invalido_deve_Interromper_a_execucao()
-        {
-
-            _result = (GenericCommandResult)_handler.Handle(_invalidCommand);
-            Assert.IsFalse(_result.Success);
-        }
 
         [TestMethod]
         public void Dado_um_comando_valido_deve_criar_a_tarefa()

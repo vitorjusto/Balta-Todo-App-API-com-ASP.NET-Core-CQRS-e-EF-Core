@@ -10,6 +10,15 @@
         "runtime": {
           "lib/netstandard2.0/Flunt.dll": {}
         }
+      },
+      "PgsqlDataTypes/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/PgsqlDataTypes.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/PgsqlDataTypes.dll": {}
+        }
       }
     }
   },
@@ -26,10 +35,23 @@
         "icon.png",
         "lib/netstandard2.0/Flunt.dll"
       ]
+    },
+    "PgsqlDataTypes/1.0.0": {
+      "sha512": "bzru6aV8zR9AE8xlaCs0dqENA5STGZxOSbcadfMVpQaMOHPw6c+YaNJtCR6ePEIzYKJ9v9QcQS5WK6Puy7nY7g==",
+      "type": "package",
+      "path": "pgsqldatatypes/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/PgsqlDataTypes.dll",
+        "pgsqldatatypes.1.0.0.nupkg.sha512",
+        "pgsqldatatypes.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "PgsqlDataTypes >= 1.0.0",
       "flunt >= 2.0.5"
     ]
   },
@@ -77,6 +99,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "PgsqlDataTypes": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "flunt": {
             "target": "Package",
             "version": "[2.0.5, )"

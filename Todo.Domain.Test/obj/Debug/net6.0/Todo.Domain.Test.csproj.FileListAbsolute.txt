@@ -217,3 +217,4 @@ C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.Domain.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.Domain.Test\bin\Debug\net6.0\Todo.Domain.Infra.dll
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.Domain.Test\bin\Debug\net6.0\Todo.Domain.Infra.pdb
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Test\bin\Debug\net6.0\PgsqlDataTypes.dll

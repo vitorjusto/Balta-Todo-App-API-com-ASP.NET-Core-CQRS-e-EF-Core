@@ -1,0 +1,60 @@
+<campo>
+<caption>CODIGO</caption>
+<nomeCampo>CodigoProduto</nomeCampo>
+<valorAtual>694371</valorAtual>
+<valorAnterior/>
+</campo>
+<campo>
+<caption>CADASTRO</caption>
+<nomeCampo>DataCadastro</nomeCampo>
+<valorAtual>13012023 00:00</valorAtual>
+<valorAnterior/>
+</campo>
+<campo>
+<caption>PRODUTO</caption>
+<nomeCampo>NomeProduto</nomeCampo>
+<valorAtual>R</valorAtual>
+<valorAnterior/>
+</campo>
+<campo>
+<caption>FORMULA</caption>
+<nomeCampo>CodigoFormula</nomeCampo>
+<valorAtual>-</valorAtual>
+<valorAnterior/>
+</campo>
+<campo>
+<caption>GRUPO</caption>
+<nomeCampo>CodigoGrupo</nomeCampo>
+<valorAtual>ANTICONCEPCIONAIS</valorAtual>
+<valorAnterior/>
+</campo>
+<campo>
+<caption>INVENTARIO</caption>
+<nomeCampo>CodigoGrupoInventario</nomeCampo>
+<valorAtual>PRODUTO PARA REVENDA</valorAtual>
+<valorAnterior/>
+</campo>
+<campo>
+<caption>UN. EMBALAGEM</caption>
+<nomeCampo>UnidadeEmbalagem</nomeCampo>
+<valorAtual>UNIDADE</valorAtual>
+<valorAnterior/>
+</campo>
+<campo>
+<caption>UN. VENDA</caption>
+<nomeCampo>UnidadeVenda</nomeCampo>
+<valorAtual>UNIDADE</valorAtual>
+<valorAnterior/>
+</campo>
+<campo>
+<caption>UN. COMPRA</caption>
+<nomeCampo>UnidadeCompra</nomeCampo>
+<valorAtual>UNIDADE</valorAtual>
+<valorAnterior/>
+</campo>
+<campo>
+<caption>FRACAO DE VENDA</caption>
+<nomeCampo>FracaoVenda</nomeCampo>
+<valorAtual>1</valorAtual>
+<valorAnterior/>
+</campo>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZrxqxtJbtJx0k4Fhf183caWEKJaL84n9KvCmg3dpnuhu+LwB5iuG+cVrioojj10G5UQTA/IXXVYv0xUAddZOw==",
+  "dgSpecHash": "MvpYEOSVzmUDkRhxpVwuIDDb+Qd7II3uWhDBERRlVGNtEii8OrPw0NP/KsRl0yvLKzpv52SHOLAfHF3vqs4LLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Test\\Todo.Domain.Test.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\ESTÁGIO\\.nuget\\packages\\pgsqldatatypes\\1.0.0\\pgsqldatatypes.1.0.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

@@ -83,3 +83,4 @@ C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ESTÁGIO\Desktop\projetosGit\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\Todo.domain.Api\bin\Debug\net6.0\PgsqlDataTypes.dll

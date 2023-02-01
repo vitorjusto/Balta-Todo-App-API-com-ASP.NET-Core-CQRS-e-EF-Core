@@ -353,6 +353,15 @@
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
         }
       },
+      "PgsqlDataTypes/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/PgsqlDataTypes.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/PgsqlDataTypes.dll": {}
+        }
+      },
       "Swashbuckle.AspNetCore/6.2.3": {
         "type": "package",
         "dependencies": {
@@ -492,6 +501,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "PgsqlDataTypes": "1.0.0",
           "flunt": "2.0.5"
         },
         "compile": {
@@ -1015,6 +1025,18 @@
         "mono.texttemplating.nuspec"
       ]
     },
+    "PgsqlDataTypes/1.0.0": {
+      "sha512": "bzru6aV8zR9AE8xlaCs0dqENA5STGZxOSbcadfMVpQaMOHPw6c+YaNJtCR6ePEIzYKJ9v9QcQS5WK6Puy7nY7g==",
+      "type": "package",
+      "path": "pgsqldatatypes/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/PgsqlDataTypes.dll",
+        "pgsqldatatypes.1.0.0.nupkg.sha512",
+        "pgsqldatatypes.nuspec"
+      ]
+    },
     "Swashbuckle.AspNetCore/6.2.3": {
       "sha512": "cnzQDn0Le+hInsw2SYwlOhOCPXpYi/szcvnyqZJ12v+QyrLBwAmWXBg6RIyHB18s/mLeywC+Rg2O9ndz0IUNYQ==",
       "type": "package",
@@ -1246,13 +1268,13 @@
     },
     "Todo.Domain/1.0.0": {
       "type": "project",
-      "path": "../Todo.Domain/Todo.Domain.csproj",
-      "msbuildProject": "../Todo.Domain/Todo.Domain.csproj"
+      "path": "../Todo.domain/Todo.Domain.csproj",
+      "msbuildProject": "../Todo.domain/Todo.Domain.csproj"
     },
     "Todo.Domain.Infra/1.0.0": {
       "type": "project",
-      "path": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj",
-      "msbuildProject": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj"
+      "path": "../Todo.domain.Infra/Todo.Domain.Infra.csproj",
+      "msbuildProject": "../Todo.domain.Infra/Todo.Domain.Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1269,11 +1291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Api\\Todo.Domain.Api.csproj",
       "projectName": "Todo.Domain.Api",
-      "projectPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "projectPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Api\\Todo.Domain.Api.csproj",
       "packagesPath": "C:\\Users\\ESTÁGIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain.Api\\obj\\",
+      "outputPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ESTÁGIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1295,11 +1317,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
-              "projectPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
+            "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Infra\\Todo.Domain.Infra.csproj": {
+              "projectPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Infra\\Todo.Domain.Infra.csproj"
             },
-            "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain\\Todo.Domain.csproj": {
-              "projectPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain\\Todo.Domain.csproj"
+            "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain\\Todo.Domain.csproj": {
+              "projectPath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain\\Todo.Domain.csproj"
             }
           }
         }

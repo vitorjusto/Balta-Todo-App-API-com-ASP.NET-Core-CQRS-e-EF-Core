@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dehN2ErTLa9fnFzkP0eHYRzWGVh2sx2pm/sPVcVzJSVwas4MEKLly9qqYzKekndW+sAk3LSCowLyY+l4qxtMvQ==",
+  "dgSpecHash": "pYt4JRkGVN8m5N18YBdjGdD03Ot8DzuKouM/cZohiDeMgHCZt6zXNAMTOEmkUB9P95SiIMy7aMQlm06zR+xF1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
+  "projectFilePath": "C:\\Users\\ESTÁGIO\\Desktop\\projetosGit\\Balta-Todo-App-API-com-ASP.NET-Core-CQRS-e-EF-Core\\Todo.domain.Infra\\Todo.Domain.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -24,6 +24,7 @@
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\ESTÁGIO\\.nuget\\packages\\pgsqldatatypes\\1.0.0\\pgsqldatatypes.1.0.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\ESTÁGIO\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
