@@ -21,8 +21,8 @@ namespace Todo.Domain.Api
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
 
-            services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("Database"));
-            //services.AddDbContext<TodoContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Connection string"));
+             //services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("Database"));
+            services.AddDbContext<TodoContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("connectionString")));
 
             services.AddTransient<ITodoRepository, TodoRepository>();
             services.AddTransient<TodoHandler, TodoHandler>();

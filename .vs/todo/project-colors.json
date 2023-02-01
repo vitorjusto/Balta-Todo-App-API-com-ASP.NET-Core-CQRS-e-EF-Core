@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee71c22a-41ba-41f4-920f-23d8b588d911": {
+      "ProjectGuid": "ee71c22a-41ba-41f4-920f-23d8b588d911",
+      "DisplayName": "Todo.Domain.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
